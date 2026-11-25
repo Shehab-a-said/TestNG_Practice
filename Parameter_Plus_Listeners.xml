@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="parameterization">
+
+    <listeners>
+        <listener class-name="ListenersINTestNG.TestNGListeners"/>
+    </listeners>
+
+    <test name="parameterization test">
+        <parameter name="username" value="tomsmith"/>
+        <parameter name="password" value="SuperSecretPassword!"/>
+
+        <classes>
+            <class name="XMLParameter_Plus_Listeners"/>
+        </classes>
+    </test>
+</suite>

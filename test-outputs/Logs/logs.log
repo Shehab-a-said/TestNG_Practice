@@ -1,0 +1,46 @@
+
+[DEBUG] - [29-09-2026 10:12:03] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [29-09-2026 10:12:03] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [29-09-2026 10:12:03] [main] [Logs] - Setup method is running
+[INFO] - [29-09-2026 10:12:09] [main] [Logs] - page navigated to login page
+[INFO] - [29-09-2026 10:12:10] [main] [Logs] - UserName is Entered
+[INFO] - [29-09-2026 10:12:10] [main] [Logs] - Password is Entered
+[INFO] - [29-09-2026 10:12:10] [main] [Logs] - Login Button is Clicked
+[DEBUG] - [29-09-2026 13:12:16] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [29-09-2026 13:12:16] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[DEBUG] - [04-10-2026 22:01:35] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\Groups.xml"
+[INFO] - [04-10-2026 22:01:36] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\Groups.xml
+
+[DEBUG] - [04-10-2026 22:06:20] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\GroupOfGroups.xml"
+[INFO] - [04-10-2026 22:06:20] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\GroupOfGroups.xml
+
+[DEBUG] - [04-10-2026 22:09:00] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\GroupOfGroups.xml"
+[INFO] - [04-10-2026 22:09:00] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\GroupOfGroups.xml
+
+[DEBUG] - [04-10-2026 22:11:09] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\GroupOfGroupsExclude.xml"
+[INFO] - [04-10-2026 22:11:09] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\GroupOfGroupsExclude.xml
+
+[DEBUG] - [05-10-2026 04:49:52] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\ParallelTestNG.xml"
+[INFO] - [05-10-2026 04:49:53] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\ParallelTestNG.xml
+
+[DEBUG] - [05-10-2026 06:37:24] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\ParallelTestNG.xml"
+[INFO] - [05-10-2026 06:37:27] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Testing\Testing Documents\Automation Code\Automation sessions Nezam Code\TestNG\ParallelTestNG.xml
+
+[DEBUG] - [06-10-2026 01:41:47] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [06-10-2026 01:41:48] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[DEBUG] - [06-10-2026 01:53:27] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [06-10-2026 01:53:28] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\SaWa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
